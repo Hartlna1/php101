@@ -1,0 +1,3 @@
+Redirect 302  /php101/hello.php http://goodbye.php  (COMPLETE DOMAIN NAME)
+
+SetEnv  THIS_IS_PHP101 Yay
